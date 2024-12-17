@@ -1,4 +1,4 @@
-# Metaphor Detection using Machine Learning
+# Graph Based Semantic Analysis using Heterogeneous Graph Attention Network
 
 ## Project Overview
 
